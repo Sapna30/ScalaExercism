@@ -1,2 +1,2 @@
-# ScalaExercises
-Scala Hands on Practice
+# ScalaExercism
+Scala Track Solution - Scala Exercism - Hands on Practice
